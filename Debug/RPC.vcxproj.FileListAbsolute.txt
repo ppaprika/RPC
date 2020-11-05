@@ -1,0 +1,2 @@
+C:\Users\Hspc\Desktop\c_projects\RPC\Debug\RPC.exe
+C:\Users\Hspc\Desktop\c_projects\RPC\Debug\RPC.pdb
